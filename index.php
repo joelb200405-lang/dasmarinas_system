@@ -12,7 +12,7 @@
 <body>
   
     <form action="/form_function.php" method="Get">
-        <label>Name</label> 
+        <label>Username</label> 
         <input type="text" placeholder="Enter Name" required> 
         <br> <br>
 
